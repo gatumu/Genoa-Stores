@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenoaStores</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="qty">Enter Quantity</string>
+    <string name="name">Customer Names</string>
+    <string name="loc">Customer Location</string>
+    <string name="save">Save</string>
+    <string name="sales">View Sales</string>
+    <string name="unsynced">View Unsynced Records</string>
+    <string name="title_activity_sales">SalesActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="update">Update Vaues</string>
+    <string name="editQty"></string>
+    <string name="editNames"></string>
+    <string name="editLoc"></string>
+    <string name="title_activity_unsynced">UnsyncedActivity</string>
+    <string name="sync">Click to Syncronise</string>
+
+</resources>
